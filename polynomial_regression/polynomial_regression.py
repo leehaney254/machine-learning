@@ -7,8 +7,8 @@ Created on Wed Sep  8 19:51:44 2021
 
 # Importing the libraries
 import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
+import plotlibs.pyplot as plt
+import pand as pd
 
 # Importing the dataset
 dataset = pd.read_csv('Position_Salaries.csv')
