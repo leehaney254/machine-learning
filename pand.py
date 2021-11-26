@@ -1,4 +1,5 @@
 import pandas as pd
+import cv2
 dict ={
     'Country':['Brazil','Russia', 'Inda', 'China', 'South Africa'],
     'Capital':['Brasilia', 'Moscow', 'New Delhi', 'Beijing','Pretoria'],
